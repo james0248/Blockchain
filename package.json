@@ -1,0 +1,16 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "npm packages for the code for the book \"Learn Blockchain Programming in JavaScript\"",
+  "main": "src/blockchain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/james0248/Blockchain.git",
+  "author": "Hyeonseok Jung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/james0248/Blockchain/issues"
+  },
+  "homepage": "https://github.com/james0248/Blockchain#readme"
+}
